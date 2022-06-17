@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+}
+.wrapper1{
+height: 50vh;
+}
+.wrapper2{
+    background-color: violet;
+    height: 50vh;
+}
+.fl{
+    float: left;
+}
+.fr{
+    float: right;
+}
+.main1{
+    width: 50%;
+    height: 50vh;
+    background-color: #049BA6;
+}
+.main2{
+    width: 50%;
+    height: 50vh;
+    background-color: #a60404;
+}
+.maintbx1{
+    background-color: blue;
+    height: 40vh;
+    width: 40%;
+    margin: 5vh 5%;
+}
+.maintbx2{
+    height: 40vh;
+    width: 40%;
+    margin: 5vh 5%;
+}
+.maintbx2bx1{
+    background-color: rgb(24, 5, 2);
+    height: 20vh;
+}
+.maintbx2bx2{
+    background-color: rgb(71, 255, 154);
+    height: 20vh;
+}
+.mainbxt1{
+    height: 17.5vh;
+    margin: 5vh 5%;
+}
+.mainbxt2{
+    background-color: yellowgreen;
+    height: 17.5vh;
+    margin: 0 5% 5vh 5%;
+}
+.mainbxt1bx1{
+    background-color: wheat;
+    height: 17.5vh;
+    width: 50%;
+}
+.mainbxt1bx2{
+    background-color:slategray;
+    height: 17.5vh;
+    width: 50%;
+}
+.wrappermain1{
+    background-color:springgreen;
+    height: 40vh;
+    width: 45%;
+    margin: 5vh 2.5%;
+}
+.wrappermain2{
+    background-color:rgb(204, 0, 255);
+    height: 40vh;
+    width: 11.6%;
+    margin: 5vh 2.5%;
+}
+.wrappermain3{
+    height: 40vh;
+    width: 11.6%;
+    margin: 5vh 2.5%;
+}
+.wrappermain4{
+    height: 40vh;
+    width: 11.6%;
+    margin: 5vh 2.5%;
+}
+.wrappermainbx1{
+    background-color:rgb(17, 0, 255);
+    height: 13vh;
+    margin: 0 0 1vh 0;
+}
+.wrappermainbx2{
+    background-color:rgb(255, 0, 0);
+    height: 26vh;
+    margin: 1vh 0 0 0;
+}
+.wrappermain4bx1{
+    background-color:rgb(255, 123, 0);
+    height: 12.6vh;
+    margin: 0 0 1vh 0;
+}
+.wrappermain4bx2{
+    background-color:rgb(115, 255, 0);
+    height: 12.6vh;
+}
+.wrappermain4bx3{
+    background-color:rgb(0, 102, 255);
+    height: 12.6vh;
+    margin: 1vh 0 0 0;
+}
